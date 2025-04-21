@@ -13,18 +13,12 @@ Remember to work on a local cloned copy of your forked repo, and to add your coh
 
 ## Requirements
 
-- When the user clicks the "Add Number" button, the number they entered into the input field should be added to the number bank.
-- The number bank is _not_ changed if the user enters a non-numeric value.
-- The number bank should display all the numbers the user has entered.
-- When the "Sort 1" button is clicked, the first number in the number bank should be removed and placed into either the odd or even category.
-- When the "Sort All" button is clicked, all the numbers in the number bank should be moved into either the odd or even category.
-- The numbers are placed into the correct bucket based on whether they are odd or even.
-
-## Hints
-
-- Don't worry about updating the DOM at first! Can you get it working so that the _state_ is correctly updated when the user interacts with the app?
-- Once you have the state updating correctly, then you can focus on updating the DOM to reflect the state.
-- Remember to break each problem into smaller subproblems - and ask for help if you're not sure how to do that!
+DONE - When the user clicks the "Add Number" button, the number they entered into the input field should be added to the number bank.
+DONE - The number bank is _not_ changed if the user enters a non-numeric value.
+DONE -The number bank should display all the numbers the user has entered.
+DONE - When the "Sort 1" button is clicked, the first number in the number bank should be removed and placed into either the odd or even category.
+DONE - When the "Sort All" button is clicked, all the numbers in the number bank should be moved into either the odd or even category.
+DONE - The numbers are placed into the correct bucket based on whether they are odd or even.
 
 ## Extensions
 
@@ -36,6 +30,3 @@ If you're done early, try to implement one or more of the following features:
 - Sort the numbers not just by odd vs even, but also in ascending order
 - Add a dropdown that allows users to toggle whether the numbers are sorted in ascending or descending order
 
-## Submission
-
-Please submit a link to your Github repo.
